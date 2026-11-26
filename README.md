@@ -87,8 +87,17 @@ Performed validation checks to identify remaining duplicates, missing values, ne
 - The dataset contains product listing information rather than individual sales transactions.
 - Reported monthly purchase quantities represent minimum reported quantities, not exact sales figures.
 - Missing information was retained as NULL to maintain data integrity.
-- Dataset redistribution permissions have not yet been confirmed.
 
 ## Conclusion
 
 This project demonstrates my practical understanding of SQL-based data cleaning, data transformation and data quality validation. The resulting dataset is more consistent, structured and prepared for further exploratory data analysis.
+
+## Dataset Source and License
+
+- **Dataset:** Amazon Products Sales Dataset 42K+ Items – 2025
+- **Original Creator:** Ikram Ul Hassan
+- **Platform:** Kaggle
+- **Source:** [Original Dataset](https://www.kaggle.com/datasets/ikramshah512/amazon-products-sales-dataset-42k-items-2025)
+- **License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+
+The original dataset was modified through SQL-based data cleaning, duplicate removal, missing value handling, data type standardization and data quality validation. This project was developed for educational and personal portfolio purposes.
